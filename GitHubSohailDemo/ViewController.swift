@@ -20,8 +20,11 @@ class ViewController: UIViewController {
         print("pora jaffa")
         print("sohail jaffa")
         // Do any additional setup after loading the view.
+        run()
     }
-
+    func run(){
+        print("craeted")
+    }
 
 }
 
